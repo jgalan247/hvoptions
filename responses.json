@@ -141,6 +141,24 @@
       "response": "High coursework subjects: Art (60% portfolio), Photography (60% portfolio), Child Development (60% NEA), Design Technology (50% project), Food & Nutrition (50% coursework), English Language (50% coursework)."
     },
     {
+      "id": "easy_subjects",
+      "keywords": [
+        "easiest",
+        "easy options",
+        "easy subjects",
+        "least difficult",
+        "less stressful",
+        "least hard",
+        "simplest",
+        "not too hard",
+        "manageable subjects",
+        "less demanding",
+        "lightest workload",
+        "least pressure"
+      ],
+      "response": "There\u2019s no single \u201ceasiest\u201d subject \u2014 it depends on your child\u2019s strengths! But if they prefer less exam pressure: Art, Photography, Performing Arts BTEC, and Music BTEC have no written exams. Child Development (60% coursework), Design Technology (50% coursework), and Food & Nutrition (50% coursework) spread the assessment across the year. Construction, Hair & Beauty, and Motor Vehicle are highly practical with minimal written work. The best choice is one your child enjoys \u2014 motivation matters more than difficulty."
+    },
+    {
       "id": "art",
       "keywords": [
         "art",

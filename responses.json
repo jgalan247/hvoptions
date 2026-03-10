@@ -1,0 +1,1494 @@
+{
+  "meta": {
+    "school": "Haute Vall\u00e9e School",
+    "year": "2025-2027",
+    "model_note": "Use claude-haiku-4-5-20251001 for fallback API calls"
+  },
+  "responses": [
+    {
+      "id": "subjects_list",
+      "keywords": [
+        "subjects available",
+        "what subjects",
+        "full list",
+        "options available",
+        "what can i choose",
+        "courses available"
+      ],
+      "response": "HV offers 23 optional subjects: Art & Design, Business Studies, Financial Education (CeFE), Child Development, Combined Portuguese/Spanish, Computer Science, Design Technology, Food & Nutrition, French, Geography, History, ICT, Motor Vehicle Studies, Music BTEC, Music GCSE, Performing Arts BTEC, Photography, Psychology, Religious Studies, Spanish, Sport BTEC, Construction (Highlands), Hair & Beauty (Highlands). You pick 3 \u2014 plus core English, Maths, and Science."
+    },
+    {
+      "id": "how_to_choose",
+      "keywords": [
+        "how do i choose",
+        "how to choose",
+        "how to select",
+        "making choices",
+        "choosing options",
+        "selection process",
+        "how does it work"
+      ],
+      "response": "You choose 3 options. Choice 1 must be from: Computer Science, French, Geography, History, Psychology, Religious Studies, Spanish, or Combined Portuguese/Spanish. Choices 2 and 3 are free from the full list. Also pick 2 reserve subjects. Submit via studentoptions.co/hautevallee using your login."
+    },
+    {
+      "id": "deadline",
+      "keywords": [
+        "deadline",
+        "when to submit",
+        "last date",
+        "when do i choose",
+        "how long",
+        "when is it due"
+      ],
+      "response": "The deadline for the current 2025 cycle was 8pm on Friday 7 March 2025. If you've missed it, contact the school directly on 01534 736524 or enquiries@hv.sch.je."
+    },
+    {
+      "id": "change_mind",
+      "keywords": [
+        "change my mind",
+        "change choices",
+        "swap subject",
+        "change option",
+        "amend",
+        "wrong choice",
+        "made a mistake",
+        "can i switch"
+      ],
+      "response": "Before the deadline you can log back into the platform and update your choices. After the deadline, contact the school directly \u2014 speak to your Head of Year or the school office."
+    },
+    {
+      "id": "core_subjects",
+      "keywords": [
+        "core subjects",
+        "compulsory",
+        "have to do",
+        "no choice",
+        "must do",
+        "what is compulsory",
+        "what do all students do"
+      ],
+      "response": "All students must take: IGCSE English Language, IGCSE English Literature, IGCSE Mathematics, and Triple Science (Biology, Chemistry, Physics). Plus core PE. These are on top of your 3 chosen options."
+    },
+    {
+      "id": "ebacc",
+      "keywords": [
+        "ebacc",
+        "english baccalaureate",
+        "what is ebacc",
+        "baccalaureate"
+      ],
+      "response": "The EBacc is a combination of GCSEs covering English, Maths, Science, a language, and a humanity (History or Geography). HV encourages students to follow this route \u2014 which is why Choice 1 must be from the humanities/languages group."
+    },
+    {
+      "id": "three_year",
+      "keywords": [
+        "three year",
+        "3 year",
+        "why year 8",
+        "start early",
+        "longer course",
+        "why choose now"
+      ],
+      "response": "HV starts GCSEs in Year 8 so students study over 3 years instead of the usual 2. This reduces pressure, improves results, and allows exams to be sat when students are ready \u2014 not just at end of Year 11."
+    },
+    {
+      "id": "gcse_vs_btec",
+      "keywords": [
+        "difference between gcse and btec",
+        "gcse or btec",
+        "what is btec",
+        "btec vs gcse",
+        "which is better btec or gcse"
+      ],
+      "response": "GCSEs are mostly exam-based and graded 1-9. BTECs are coursework and project-based, graded Pass/Merit/Distinction (equivalent to GCSE grades). BTECs suit practical learners who prefer continuous assessment over final exams."
+    },
+    {
+      "id": "vocational",
+      "keywords": [
+        "vocational",
+        "highlands",
+        "construction",
+        "hair and beauty",
+        "motor vehicle",
+        "college",
+        "practical course"
+      ],
+      "response": "HV offers 3 vocational courses with Highlands College: Construction, Hair & Beauty, and Motor Vehicle Studies. You can only pick ONE of these. Year 9 is school-based; Years 10-11 involve one afternoon per week at Highlands College."
+    },
+    {
+      "id": "no_exams",
+      "keywords": [
+        "no exams",
+        "no written exam",
+        "without exams",
+        "avoid exams",
+        "hate exams",
+        "exam free",
+        "less exams",
+        "minimal exams"
+      ],
+      "response": "Subjects with no traditional written exam: Art & Design, Photography, Performing Arts BTEC, Music BTEC. Mostly practical with minimal writing: Construction, Hair & Beauty, Motor Vehicle, Sport BTEC."
+    },
+    {
+      "id": "mostly_coursework",
+      "keywords": [
+        "coursework",
+        "mostly coursework",
+        "project based",
+        "no revision",
+        "continuous assessment"
+      ],
+      "response": "High coursework subjects: Art (60% portfolio), Photography (60% portfolio), Child Development (60% NEA), Design Technology (50% project), Food & Nutrition (50% coursework), English Language (50% coursework)."
+    },
+    {
+      "id": "art",
+      "keywords": [
+        "art",
+        "art and design",
+        "art gcse",
+        "art & design"
+      ],
+      "response": "Art & Design (AQA) is 100% practical \u2014 no written exam. Portfolio 60% + 10-hour controlled exam piece 40%. Great for creative, independent students. Course leader: Mrs Boccone (s.boccone@hv.sch.je)."
+    },
+    {
+      "id": "business",
+      "keywords": [
+        "business",
+        "business studies",
+        "business gcse"
+      ],
+      "response": "Business Studies (Edexcel) is 100% exam \u2014 two 1hr 45min papers covering starting and growing a business. Good for students interested in entrepreneurship and real-world contexts. Leader: Miss Dimaro (s.dimaro@hv.sch.je)."
+    },
+    {
+      "id": "cefe",
+      "keywords": [
+        "financial education",
+        "cefe",
+        "finance",
+        "money",
+        "certificate in financial"
+      ],
+      "response": "The Certificate in Financial Education (CeFE) is a Level 2 Technical Award covering public finance, budgeting, and employability. Not a traditional GCSE but Level 2 equivalent. Complements Maths and Business. Leader: Miss Dimaro (s.dimaro@hv.sch.je)."
+    },
+    {
+      "id": "child_development",
+      "keywords": [
+        "child development",
+        "childcare",
+        "early years",
+        "nursery"
+      ],
+      "response": "Child Development (OCR Cambridge National) \u2014 40% exam, 60% coursework. Covers child health, nutrition, and development from birth to 5 years. Good for careers in early years, midwifery, or childcare. Leader: Ms Shanklyn (v.shanklyn@hv.sch.je)."
+    },
+    {
+      "id": "computer_science",
+      "keywords": [
+        "computer science",
+        "coding",
+        "programming",
+        "cs",
+        "igcse computer"
+      ],
+      "response": "Computer Science (Edexcel 1CP2) has two papers: theory and a practical Python 3 programming exam. Good for logical thinkers strong in Maths. Must be chosen as Choice 1. Leader: Miss Dimaro (s.dimaro@hv.sch.je)."
+    },
+    {
+      "id": "design_technology",
+      "keywords": [
+        "design technology",
+        "dt",
+        "design and technology",
+        "product design",
+        "resistant materials"
+      ],
+      "response": "Design Technology (IGCSE) \u2014 50% coursework project, 50% written papers (Product Design + Resistant Materials). Practical, creative and technical. Leader: Mr Browne (S.Browne@hv.sch.je)."
+    },
+    {
+      "id": "food",
+      "keywords": [
+        "food",
+        "food preparation",
+        "food and nutrition",
+        "cooking",
+        "nutrition"
+      ],
+      "response": "Food Preparation & Nutrition (AQA) \u2014 50% written exam, 50% practical coursework (food investigation + food prep assessment). Good for students interested in cooking or the food industry. Leader: Mr Browne (S.Browne@hv.sch.je)."
+    },
+    {
+      "id": "french",
+      "keywords": [
+        "french",
+        "french gcse",
+        "learn french"
+      ],
+      "response": "French GCSE (Edexcel) \u2014 four skills each 25%: Listening, Reading, Speaking, Writing. A native French speaker supports speaking prep. French is an official language of Jersey. Leader: Miss Durbano (r.durbano@hv.sch.je)."
+    },
+    {
+      "id": "geography",
+      "keywords": [
+        "geography",
+        "geography gcse",
+        "igcse geography"
+      ],
+      "response": "Geography (Edexcel IGCSE) \u2014 two exams: Physical Geography (1hr 10min) and Human Geography (1hr 45min). Includes real fieldwork. Good for students interested in the wider world. Leader: Mr Ingram (m.ingram@hv.sch.je)."
+    },
+    {
+      "id": "history",
+      "keywords": [
+        "history",
+        "history gcse",
+        "gcse history"
+      ],
+      "response": "History (Edexcel) is 100% exam across 3 papers \u2014 no coursework. Topics: Medicine in Britain, American West, Elizabethan England, Weimar & Nazi Germany. Reading and writing intensive. Leader: Mr Ingram (m.ingram@hv.sch.je)."
+    },
+    {
+      "id": "ict",
+      "keywords": [
+        "ict",
+        "information technology",
+        "information communication",
+        "igcse ict"
+      ],
+      "response": "ICT (Cambridge IGCSE) \u2014 1 theory paper (40%) + 2 practical papers (60%). Covers software applications, spreadsheets, databases, and web design. Different from Computer Science \u2014 less programming, more using software. No named course leader in booklet."
+    },
+    {
+      "id": "motor_vehicle",
+      "keywords": [
+        "motor vehicle",
+        "cars",
+        "automotive",
+        "mechanics",
+        "vehicle"
+      ],
+      "response": "Motor Vehicle Studies is a vocational course ideal for students interested in the automotive industry. Covers servicing, tools, health & safety, and tyres. Leads to a Level 2 diploma or apprenticeship. Counts as your ONE vocational choice. Leader: Miss Knowles (R.Knowles@hv.sch.je)."
+    },
+    {
+      "id": "music_btec",
+      "keywords": [
+        "music btec",
+        "btec music",
+        "music qualification"
+      ],
+      "response": "Music BTEC (Pearson International Level 2) \u2014 50% internal projects, 50% externally assessed assignment. No traditional written exam. Graded like GCSE: Distinction* = 8.5, Distinction = 7, Merit = 5/6. Cannot choose both BTEC and GCSE Music. Leader: Miss Cooper (c.cooper@hv.sch.je)."
+    },
+    {
+      "id": "music_gcse",
+      "keywords": [
+        "music gcse",
+        "gcse music",
+        "music"
+      ],
+      "response": "Music GCSE (AQA) \u2014 Performing 30% + Composing 30% + Listening exam 40% (1hr 30min). You should already play an instrument or sing. Cannot choose both GCSE and BTEC Music. Leader: Miss Cooper (c.cooper@hv.sch.je)."
+    },
+    {
+      "id": "performing_arts",
+      "keywords": [
+        "performing arts",
+        "drama",
+        "theatre",
+        "acting",
+        "btec performing"
+      ],
+      "response": "Performing Arts BTEC (Edexcel) \u2014 75% internal performance-based work, 25% external (video audition + application letter). No written exam. Options: Acting or Musical Theatre. Good for confident, creative team players. Leader: Mr Mortimer (d.mortimer@hv.sch.je)."
+    },
+    {
+      "id": "photography",
+      "keywords": [
+        "photography",
+        "photos",
+        "photo gcse",
+        "camera"
+      ],
+      "response": "Photography GCSE (AQA) \u2014 Portfolio 60% + 10-hour controlled exam piece 40%. Some written analysis required. Rewards creative thinking and visual skills. Leader: Mrs Boccone (s.boccone@hv.sch.je)."
+    },
+    {
+      "id": "psychology",
+      "keywords": [
+        "psychology",
+        "psychology gcse",
+        "mind",
+        "behaviour"
+      ],
+      "response": "Psychology GCSE (OCR) \u2014 100% exam, no coursework. Two 90-minute papers in Year 11. Topics include Criminal Psychology, Memory, Social Influence, Sleep & Dreaming. Includes maths questions and essays. Leader: Miss Halsall (a.halsall@hv.sch.je)."
+    },
+    {
+      "id": "religious_studies",
+      "keywords": [
+        "religious studies",
+        "rs",
+        "religion",
+        "re",
+        "religious education"
+      ],
+      "response": "Religious Studies GCSE (AQA) \u2014 100% exam, two papers (50% each). Covers Christianity, Islam, and 4 thematic modules including relationships, conflict, and crime. Must be chosen as Choice 1. Leader: Mrs Riley (c.riley@hv.sch.je)."
+    },
+    {
+      "id": "spanish",
+      "keywords": [
+        "spanish",
+        "spanish gcse",
+        "learn spanish"
+      ],
+      "response": "Spanish GCSE (Edexcel) \u2014 four skills each 25%: Listening, Reading, Speaking, Writing. A native Spanish speaker supports speaking prep. Can be combined with Portuguese as a unique joint GCSE. Leader: Miss Durbano (r.durbano@hv.sch.je)."
+    },
+    {
+      "id": "portuguese_spanish",
+      "keywords": [
+        "portuguese",
+        "combined portuguese",
+        "portuguese spanish",
+        "portuguese gcse"
+      ],
+      "response": "Combined Portuguese/Spanish GCSE \u2014 sit Portuguese GCSE in Year 9, then Spanish in Years 10-11. Ideal for students already fluent in Portuguese. Both assessed in 4 skills: Listening, Reading, Speaking, Writing. Leader: Miss Durbano (r.durbano@hv.sch.je)."
+    },
+    {
+      "id": "sport",
+      "keywords": [
+        "sport",
+        "sport btec",
+        "pe",
+        "physical education",
+        "sports"
+      ],
+      "response": "Sport BTEC (Pearson) \u2014 mostly practical: 2 internal assignments + 1 external exam (1.5hrs). Covers sports analysis, coaching, fitness, and leadership. Good for students interested in PE or sports careers. Leader: Mrs Paine (p.paine@hv.sch.je)."
+    },
+    {
+      "id": "construction",
+      "keywords": [
+        "construction",
+        "building",
+        "built environment",
+        "highlands construction"
+      ],
+      "response": "Construction & Built Environment (Jersey Progression Award, Highlands College) \u2014 2-year course. Year 9 school-based; Years 10-11 at Highlands one afternoon per week. Counts as your ONE vocational choice."
+    },
+    {
+      "id": "hair_beauty",
+      "keywords": [
+        "hair",
+        "beauty",
+        "hair and beauty",
+        "hairdressing",
+        "highlands hair"
+      ],
+      "response": "Hair & Beauty (Jersey Progression Award, Highlands College) \u2014 2-year course. Year 9 school-based; Years 10-11 at Highlands one afternoon per week. Counts as your ONE vocational choice."
+    },
+    {
+      "id": "science",
+      "keywords": [
+        "science",
+        "triple science",
+        "combined science",
+        "biology",
+        "chemistry",
+        "physics",
+        "gcse science"
+      ],
+      "response": "All students start Triple Science in Year 9 (Biology, Chemistry, Physics = 3 GCSEs). At end of Year 9, some may move to Combined Science (2 GCSEs). Six exams at end of Year 11. Core \u2014 not an option choice. Leader: Mrs Gallagher (r.gallagher@hv.sch.je)."
+    },
+    {
+      "id": "maths",
+      "keywords": [
+        "maths",
+        "mathematics",
+        "igcse maths",
+        "gcse maths"
+      ],
+      "response": "IGCSE Mathematics (Edexcel) is compulsory for all students. Foundation tier (grades 1-5) or Higher tier (grades 4-9). Two calculator papers, assessed in November and May giving two chances to improve. Leader: Miss Hanrahan (m.hanrahan@hv.sch.je)."
+    },
+    {
+      "id": "english",
+      "keywords": [
+        "english",
+        "english language",
+        "english literature",
+        "gcse english"
+      ],
+      "response": "Both English subjects are compulsory. English Language: 50% exam, 50% coursework. English Literature: 60% exam, 40% coursework \u2014 texts include Of Mice and Men, An Inspector Calls, Macbeth. SPaG is only 5% of Literature marks. Leader: Mr Hann (t.hann@hv.sch.je)."
+    },
+    {
+      "id": "sen_general",
+      "keywords": [
+        "sen",
+        "special needs",
+        "learning difficulty",
+        "learning support",
+        "additional needs",
+        "support available",
+        "learning differences"
+      ],
+      "response": "Students with SEN may be eligible for access arrangements (extra time, reader, scribe, rest breaks, laptop). This is arranged through the school's SENCO based on evidence of need. Contact the school directly to discuss your child's specific requirements."
+    },
+    {
+      "id": "dyslexia",
+      "keywords": [
+        "dyslexia",
+        "dyslexic",
+        "reading difficulty",
+        "writing difficulty",
+        "struggles with writing"
+      ],
+      "response": "For dyslexic students, low-writing subjects like Art, Photography, and Performing Arts BTEC work well. English Literature notes SPaG is only 5% of marks. Access arrangements (extra time, scribe) are available in all subjects via the SENCO."
+    },
+    {
+      "id": "autism",
+      "keywords": [
+        "autism",
+        "autistic",
+        "asd",
+        "asperger",
+        "neurodivergent"
+      ],
+      "response": "Subjects with clear structure and logical content suit many autistic students: Computer Science, History, Psychology, Business Studies. Art and DT offer self-directed project work with minimal social pressure. Speak to the SENCO about access arrangements."
+    },
+    {
+      "id": "adhd",
+      "keywords": [
+        "adhd",
+        "attention",
+        "hyperactive",
+        "concentration",
+        "focus"
+      ],
+      "response": "Practical, project-based subjects often work well: Art, DT, Photography, Sport BTEC, Performing Arts. These offer varied tasks rather than long revision-heavy study. Speak to the SENCO about support arrangements in exams."
+    },
+    {
+      "id": "contact",
+      "keywords": [
+        "contact",
+        "phone number",
+        "email",
+        "speak to someone",
+        "get in touch",
+        "school office"
+      ],
+      "response": "Haute Vall\u00e9e School: \ud83d\udcde 01534 736524 | \u2709\ufe0f enquiries@hv.sch.je | \ud83c\udf10 www.hv.sch.je. Headteacher: Stuart J Hughes."
+    },
+    {
+      "id": "university",
+      "keywords": [
+        "university",
+        "a level",
+        "sixth form",
+        "future",
+        "career",
+        "after gcse",
+        "post 16"
+      ],
+      "response": "English and Maths are needed for almost every post-16 route. Universities value languages even if not continued to A Level. The EBacc route (humanities + language) is broadly respected. For specific career paths, speak to a school careers advisor."
+    },
+    {
+      "id": "how_many",
+      "keywords": [
+        "how many subjects",
+        "how many options",
+        "how many gcse",
+        "total gcse",
+        "number of subjects"
+      ],
+      "response": "Students take 3 option subjects plus 5 compulsory subjects (English Language, English Literature, Maths, and Triple or Combined Science). That's typically 8-9 GCSEs in total, depending on Science route."
+    },
+    {
+      "id": "neurodivergent_general",
+      "keywords": [
+        "neurodivergent",
+        "different learner",
+        "learning difference",
+        "not conventional",
+        "thinks differently",
+        "unusual learner"
+      ],
+      "response": "For neurodivergent students, practical and project-based subjects often work best: Art, Photography, DT, Performing Arts BTEC, Sport BTEC. These avoid high-stakes exam pressure. Structured logical subjects like Computer Science and Psychology also suit many neurodivergent learners. Always speak to the SENCO about access arrangements."
+    },
+    {
+      "id": "logical_thinker",
+      "keywords": [
+        "logical",
+        "logical thinker",
+        "loves logic",
+        "analytical",
+        "systematic",
+        "likes solving problems",
+        "problem solver",
+        "methodical"
+      ],
+      "response": "Logical thinkers tend to do well in Computer Science (Python programming + theory), Maths-heavy subjects like Business Studies and Psychology (both include quantitative questions), and Geography (structured fieldwork and data analysis)."
+    },
+    {
+      "id": "dislikes_maths",
+      "keywords": [
+        "hates maths",
+        "bad at maths",
+        "struggles with maths",
+        "not good at maths",
+        "dislikes maths",
+        "no maths",
+        "avoid maths",
+        "weak at maths"
+      ],
+      "response": "Subjects with little or no maths: Art, Photography, Performing Arts BTEC, Music (BTEC or GCSE), Food & Nutrition, Child Development, French, Spanish, History, Religious Studies, English Literature. Avoid Psychology (10%+ maths questions) and Computer Science (logic-heavy)."
+    },
+    {
+      "id": "likes_maths",
+      "keywords": [
+        "loves maths",
+        "good at maths",
+        "strong in maths",
+        "maths student",
+        "enjoys maths",
+        "mathematically strong"
+      ],
+      "response": "Maths-friendly options: Computer Science (logical, algorithm-based), Psychology (includes statistical analysis), Business Studies (financial calculations), Geography (data and statistics). Physics in Triple Science also rewards strong maths ability."
+    },
+    {
+      "id": "creative_student",
+      "keywords": [
+        "creative",
+        "artistic",
+        "loves art",
+        "imaginative",
+        "visual learner",
+        "hands on",
+        "hands-on",
+        "practical student",
+        "not academic"
+      ],
+      "response": "Creative and practical students are well served by: Art & Design, Photography, Design Technology, Performing Arts BTEC, Music BTEC, Food & Nutrition, and the Highlands vocational courses (Construction, Hair & Beauty, Motor Vehicle). All have heavy coursework or practical components."
+    },
+    {
+      "id": "shy_introvert",
+      "keywords": [
+        "shy",
+        "introvert",
+        "quiet",
+        "anxious presenting",
+        "nervous speaking",
+        "hates speaking",
+        "hates presentations",
+        "social anxiety"
+      ],
+      "response": "Subjects to avoid if your child dislikes speaking or presenting: languages (French, Spanish \u2014 25% speaking exam), Performing Arts. Better fits: Art, Photography, Computer Science, History, Geography, Psychology \u2014 all assessed through written work or practical projects with no performance element."
+    },
+    {
+      "id": "strong_reader_writer",
+      "keywords": [
+        "loves reading",
+        "loves writing",
+        "strong writer",
+        "good at english",
+        "bookworm",
+        "essay writer",
+        "literacy strong"
+      ],
+      "response": "Strong readers and writers excel in History (essay-heavy, 100% exam), Religious Studies (analytical essays), English Literature (already compulsory), and Psychology (extended written answers). Geography also rewards good written communication."
+    },
+    {
+      "id": "dislikes_exams",
+      "keywords": [
+        "hates exams",
+        "bad at exams",
+        "exam anxiety",
+        "freezes in exams",
+        "struggles with exams",
+        "exam stress",
+        "anxious about exams",
+        "poor exam performance"
+      ],
+      "response": "Low or no exam subjects: Art & Design (no written exam), Photography (no written exam), Performing Arts BTEC (no written exam), Music BTEC (no written exam). Mixed coursework/exam: Child Development, DT, Food & Nutrition, Sport BTEC. Avoid History, Psychology, RS, Business \u2014 all 100% exam."
+    },
+    {
+      "id": "science_career",
+      "keywords": [
+        "wants to be a doctor",
+        "medicine",
+        "nursing",
+        "science career",
+        "engineer",
+        "wants to do science",
+        "stem",
+        "biology career",
+        "chemistry career"
+      ],
+      "response": "For science or medicine careers, Triple Science (already compulsory) is the priority. Good supporting options: Computer Science, Geography, Psychology, or Maths-heavy subjects like Business. Languages are also valued by medical schools. Confirm with a careers advisor for specific pathways."
+    },
+    {
+      "id": "arts_career",
+      "keywords": [
+        "wants to do art",
+        "art career",
+        "design career",
+        "fashion",
+        "architect",
+        "graphic design",
+        "creative career",
+        "wants to be an artist"
+      ],
+      "response": "For creative careers: Art & Design and Photography build a portfolio foundation. Design Technology suits product/industrial design paths. Performing Arts for theatre/media. These are best combined with at least one academic subject (History, Geography, a language) to keep future options open."
+    },
+    {
+      "id": "technology_career",
+      "keywords": [
+        "wants to work in tech",
+        "software",
+        "game design",
+        "it career",
+        "technology career",
+        "programmer",
+        "wants to code",
+        "developer"
+      ],
+      "response": "Computer Science (Choice 1) is the obvious pick. ICT is a softer alternative if programming feels too challenging. Business Studies complements a tech career well. Strong Maths (already compulsory) is essential for most tech routes at A Level and beyond."
+    },
+    {
+      "id": "sporty_student",
+      "keywords": [
+        "sporty",
+        "loves sport",
+        "athletic",
+        "active student",
+        "sport lover",
+        "physical",
+        "loves pe"
+      ],
+      "response": "Sport BTEC is the natural choice \u2014 practical, coaching and analysis focused. Food & Nutrition complements sport (nutrition science). Psychology is useful for sports psychology. PE is compulsory for all students regardless of options chosen."
+    },
+    {
+      "id": "language_lover",
+      "keywords": [
+        "loves languages",
+        "good at languages",
+        "language student",
+        "bilingual",
+        "multilingual",
+        "enjoys languages"
+      ],
+      "response": "HV offers French, Spanish, and Combined Portuguese/Spanish. Languages must be chosen as Choice 1. A language GCSE is highly valued by universities even if not continued to A Level. Jersey students have a real advantage with French as an official island language."
+    },
+    {
+      "id": "undecided",
+      "keywords": [
+        "not sure",
+        "undecided",
+        "can't decide",
+        "confused",
+        "don't know what to choose",
+        "help me choose",
+        "no idea",
+        "stuck",
+        "overwhelmed"
+      ],
+      "response": "Start by identifying what your child enjoys and is good at \u2014 not what their friends choose. For Choice 1, most students pick a language, History, or Geography. Then balance the remaining two between practical and academic. The school also runs subject presentations during form time to help."
+    },
+    {
+      "id": "too_much_coursework",
+      "keywords": [
+        "too much coursework",
+        "hates coursework",
+        "prefers exams",
+        "no coursework",
+        "exam only",
+        "avoid coursework"
+      ],
+      "response": "Subjects that are mostly or entirely exam-based: History (100% exam), Psychology (100% exam), Religious Studies (100% exam), Business Studies (100% exam), French/Spanish (exam + speaking). These suit students who prefer to revise and sit exams rather than manage ongoing projects."
+    },
+    {
+      "id": "workload_heavy",
+      "keywords": [
+        "heavy workload",
+        "lots of work",
+        "time commitment",
+        "demanding",
+        "which is hardest",
+        "most work",
+        "intense"
+      ],
+      "response": "Most demanding in terms of ongoing workload: Art and DT (large projects requiring time outside lessons), Music GCSE (regular practice needed), and the Highlands vocational courses (off-site commitment). History and Psychology are demanding in terms of content volume for exams."
+    },
+    {
+      "id": "pastoral_concern",
+      "keywords": [
+        "struggling",
+        "mental health",
+        "anxiety",
+        "school refuser",
+        "low confidence",
+        "self esteem",
+        "wellbeing",
+        "stress"
+      ],
+      "response": "For students who find school stressful, practical and creative subjects with less high-stakes exam pressure often help: Art, Photography, Performing Arts BTEC, Sport BTEC. These also build confidence and self-expression. Do speak to the school directly about pastoral support alongside options choices."
+    },
+    {
+      "id": "homework",
+      "keywords": [
+        "homework",
+        "home work",
+        "work at home",
+        "how much homework",
+        "lots of homework",
+        "homework heavy",
+        "work outside school",
+        "independent study"
+      ],
+      "response": "All GCSE subjects involve work outside lessons. Heaviest homework load: Art and DT (ongoing projects require significant time at home), Music GCSE (regular instrument practice), History and Psychology (substantial reading and revision). Lighter ongoing homework: BTEC subjects tend to be more classroom-based with projects completed in lessons."
+    },
+    {
+      "id": "tutorials",
+      "keywords": [
+        "tutoring",
+        "tutor",
+        "tutorial",
+        "extra help",
+        "private tuition",
+        "after school help",
+        "out of school support",
+        "extra lessons",
+        "private lessons",
+        "additional support"
+      ],
+      "response": "The booklet does not mention specific out-of-school tutoring provision. For private tuition in Jersey, contact the school for recommendations, or search Jersey tutoring directories. Core subjects (Maths, English, Science) have the widest pool of available tutors on the island."
+    },
+    {
+      "id": "after_school_clubs",
+      "keywords": [
+        "after school",
+        "clubs",
+        "extra curricular",
+        "extracurricular",
+        "activities",
+        "enrichment",
+        "beyond lessons"
+      ],
+      "response": "The booklet mentions enrichment sessions throughout Year 9 including PSHE. The 3-year GCSE model is specifically designed to allow time for extra-curricular activities alongside academic study. Contact the school for details of specific clubs or activities on offer."
+    },
+    {
+      "id": "revision_support",
+      "keywords": [
+        "revision",
+        "revision support",
+        "study support",
+        "exam preparation",
+        "help revising",
+        "revision classes",
+        "intervention"
+      ],
+      "response": "The booklet highlights that the 3-year course gives additional time for thorough exam preparation. Specific revision support or intervention sessions are not detailed \u2014 contact the school directly to ask about what is available per subject."
+    },
+    {
+      "id": "parental_support",
+      "keywords": [
+        "how can i help",
+        "parent support",
+        "support at home",
+        "help my child",
+        "what can parents do",
+        "how to help at home"
+      ],
+      "response": "The booklet encourages students to ask teachers questions and gather information before choosing. At home: help your child research subjects they are unsure about, visit open events, and avoid steering them based on your own preferences \u2014 choices should reflect their strengths and interests."
+    },
+    {
+      "id": "open_evenings",
+      "keywords": [
+        "open evening",
+        "open event",
+        "visit school",
+        "subject evening",
+        "options evening",
+        "parents evening",
+        "information evening"
+      ],
+      "response": "The booklet mentions subject leaders present to students during form time and lessons. For parent information events, contact the school directly \u2014 01534 736524 or enquiries@hv.sch.je \u2014 as specific dates are not listed in the booklet."
+    },
+    {
+      "id": "speak_to_teacher",
+      "keywords": [
+        "speak to teacher",
+        "talk to teacher",
+        "ask teacher",
+        "teacher advice",
+        "subject teacher",
+        "who to speak to",
+        "who should i ask"
+      ],
+      "response": "The booklet encourages students to speak directly to subject leaders for each course. Each subject page lists the course leader and their email. For general options guidance, speak to your form tutor or Head of Year."
+    },
+    {
+      "id": "online_platform",
+      "keywords": [
+        "online platform",
+        "student options",
+        "how to submit",
+        "submit choices",
+        "where to enter",
+        "login",
+        "website to choose"
+      ],
+      "response": "Choices are submitted at studentoptions.co/hautevallee using your child's unique login. You can log back in and amend choices before the deadline. If you have login issues, contact the school office."
+    },
+    {
+      "id": "workload_balance",
+      "keywords": [
+        "balance",
+        "balanced subjects",
+        "good combination",
+        "right mix",
+        "sensible choices",
+        "spread of subjects",
+        "variety"
+      ],
+      "response": "A balanced combination typically mixes one essay/exam subject (History, Geography, RS, Psychology), one practical or creative subject (Art, DT, Photography, Performing Arts), and one language or technical subject (French, Spanish, Computer Science, Business). This keeps future pathways open and avoids overloading in any one direction."
+    },
+    {
+      "id": "resit",
+      "keywords": [
+        "resit",
+        "re-sit",
+        "retake",
+        "fail",
+        "what if they fail",
+        "second chance",
+        "sit again"
+      ],
+      "response": "IGCSE Maths and English Language are assessed in both November and May, giving students two opportunities to improve. For other subjects, resit options depend on the exam board. The 3-year course structure at HV is specifically designed to reduce the pressure of single-sitting exams."
+    },
+    {
+      "id": "grades",
+      "keywords": [
+        "grades",
+        "grading",
+        "how are they graded",
+        "what grades",
+        "gcse grades",
+        "marking",
+        "how marked",
+        "1 to 9",
+        "grade 9"
+      ],
+      "response": "GCSEs are graded 1-9 (9 being highest). BTECs are graded Pass/Merit/Distinction/Distinction* which convert to GCSE-equivalent grades (e.g. Distinction* = grade 8.5). The CeFE Financial Education award is a Level 2 qualification, equivalent to a GCSE pass."
+    },
+    {
+      "id": "friends",
+      "keywords": [
+        "friends",
+        "same as friends",
+        "choose with friends",
+        "friend is doing",
+        "my friend chose"
+      ],
+      "response": "The booklet specifically advises against choosing subjects based on what friends are doing. Option blocks are formed after all choices are submitted, so there's no guarantee of being in the same class as friends anyway. Choices should be based on your child's own strengths and interests."
+    },
+    {
+      "id": "art_vs_photography",
+      "keywords": [
+        "art or photography",
+        "art vs photography",
+        "difference between art and photography",
+        "choose art or photography"
+      ],
+      "response": "Both are 100% practical with no written exam (portfolio 60% + exam piece 40%). Art uses traditional and experimental media; Photography is digital/lens-based with some written analysis. Choose based on whether your child prefers making physical artwork or working with images and cameras."
+    },
+    {
+      "id": "computer_science_vs_ict",
+      "keywords": [
+        "computer science or ict",
+        "cs vs ict",
+        "difference between computer science and ict",
+        "coding or ict",
+        "which is better cs or ict"
+      ],
+      "response": "Computer Science involves programming in Python and computational thinking \u2014 more demanding. ICT focuses on using software (spreadsheets, databases, web design) \u2014 more accessible. CS requires Choice 1 slot; ICT does not. CS is better for tech careers; ICT for general digital skills."
+    },
+    {
+      "id": "history_vs_geography",
+      "keywords": [
+        "history or geography",
+        "history vs geography",
+        "difference between history and geography",
+        "choose history or geography"
+      ],
+      "response": "History is 100% exam, essay-heavy and reading intensive. Geography has two exams but includes fieldwork and data analysis. Both count for EBacc and must be Choice 1. Geography suits analytical thinkers; History suits strong writers."
+    },
+    {
+      "id": "french_vs_spanish",
+      "keywords": [
+        "french or spanish",
+        "french vs spanish",
+        "which language",
+        "should i do french or spanish",
+        "choose a language"
+      ],
+      "response": "Both assessed identically \u2014 four skills at 25% each. French is an official language of Jersey with deep cultural roots on the island. Spanish is the world's second most spoken language. Choose based on your child's existing knowledge and enjoyment."
+    },
+    {
+      "id": "music_gcse_vs_btec",
+      "keywords": [
+        "music gcse or btec",
+        "which music",
+        "gcse music or btec music",
+        "better music qualification"
+      ],
+      "response": "Music GCSE requires strong instrument/vocal ability and includes a listening exam. Music BTEC is more project and production focused with no written exam \u2014 better for students interested in the music industry broadly rather than classical performance."
+    },
+    {
+      "id": "business_vs_psychology",
+      "keywords": [
+        "business or psychology",
+        "business vs psychology",
+        "choose business or psychology"
+      ],
+      "response": "Both are 100% exam with no coursework. Business is more numerical and real-world focused; Psychology is essay and science-based with some maths. Business suits entrepreneurial students; Psychology suits those interested in people and behaviour."
+    },
+    {
+      "id": "sport_vs_pe",
+      "keywords": [
+        "sport btec vs pe",
+        "is there gcse pe",
+        "gcse sport",
+        "pe option",
+        "physical education option"
+      ],
+      "response": "There is no GCSE PE at HV \u2014 the option is Sport BTEC. This covers coaching, sports analysis and fitness. Core PE is compulsory for all students anyway. The BTEC suits students interested in sports leadership or coaching."
+    },
+    {
+      "id": "dt_vs_food",
+      "keywords": [
+        "design technology or food",
+        "dt vs food",
+        "food or dt",
+        "design or cooking"
+      ],
+      "response": "Both have 50% coursework and 50% exam. DT focuses on designing and making products with materials. Food and Nutrition focuses on cooking and nutrition science. Very different in practice \u2014 choose based on your child's genuine interest."
+    },
+    {
+      "id": "performing_arts_vs_music",
+      "keywords": [
+        "performing arts or music",
+        "drama or music",
+        "music vs performing arts",
+        "theatre or music"
+      ],
+      "response": "Performing Arts BTEC is team-based theatre and musical theatre performance. Music is about composing, performing an instrument, and understanding music theory. Performing Arts suits confident performers; Music suits students with an instrument or strong interest in music production."
+    },
+    {
+      "id": "triple_science_combination",
+      "keywords": [
+        "triple science and",
+        "alongside triple science",
+        "with triple science",
+        "if doing triple science"
+      ],
+      "response": "Triple Science already gives 3 GCSEs so your options sit alongside it. A good balance: one humanities/language (Choice 1), one practical/creative, one technical. Computer Science pairs very well with Triple Science for STEM pathways."
+    },
+    {
+      "id": "ebacc_combination",
+      "keywords": [
+        "ebacc combination",
+        "full ebacc",
+        "achieve ebacc",
+        "ebacc subjects",
+        "ebacc route"
+      ],
+      "response": "To achieve the full EBacc at HV: English and Maths (compulsory), Science (compulsory), plus a language AND a humanity from your 3 options. This leaves one free choice for a creative or practical subject."
+    },
+    {
+      "id": "art_heavy_combination",
+      "keywords": [
+        "all creative",
+        "three creative subjects",
+        "art photography and",
+        "creative combination",
+        "all practical subjects"
+      ],
+      "response": "Choosing multiple creative subjects is possible but consider balancing with one academic subject. Universities and colleges generally like to see some written subjects alongside creative ones \u2014 History, Geography, or Psychology work well."
+    },
+    {
+      "id": "all_exam_combination",
+      "keywords": [
+        "all exams",
+        "three exam subjects",
+        "all written",
+        "only exams",
+        "history psychology and"
+      ],
+      "response": "Three 100% exam subjects creates a very heavy revision load in Year 11. This suits highly academic students but can be stressful. Consider whether one practical or coursework subject would provide a better balance."
+    },
+    {
+      "id": "competitive_student",
+      "keywords": [
+        "competitive",
+        "wants top grades",
+        "high achiever",
+        "gifted",
+        "academic student",
+        "bright student",
+        "high ability"
+      ],
+      "response": "High-ability students often thrive in History, Psychology, Computer Science, and languages \u2014 subjects with clear grade criteria and stretching content. The 3-year course at HV allows time to reach higher-level content, a real advantage for ambitious students."
+    },
+    {
+      "id": "kinaesthetic_learner",
+      "keywords": [
+        "learns by doing",
+        "kinaesthetic",
+        "practical learner",
+        "hands on learner",
+        "learns practically",
+        "active learner",
+        "makes things"
+      ],
+      "response": "Hands-on learners are well served by: Design Technology, Food and Nutrition, Art, Construction or Motor Vehicle (Highlands), and Sport BTEC. All have significant practical components assessed over time rather than in a single exam."
+    },
+    {
+      "id": "visual_learner",
+      "keywords": [
+        "visual learner",
+        "learns visually",
+        "visual thinker",
+        "thinks in pictures",
+        "visual"
+      ],
+      "response": "Visual learners often excel in Art, Photography, Geography (maps, diagrams, fieldwork), Design Technology, and Computer Science (flowcharts and diagrams). These subjects reward visual thinking and spatial awareness."
+    },
+    {
+      "id": "social_student",
+      "keywords": [
+        "sociable",
+        "social student",
+        "loves working with people",
+        "team player",
+        "group work",
+        "collaborative"
+      ],
+      "response": "Collaborative subjects: Performing Arts BTEC (group performances), Music BTEC (ensemble work), Sport BTEC (team coaching). Languages also involve pair and group speaking practice. Most other GCSEs are primarily individual work."
+    },
+    {
+      "id": "independent_learner",
+      "keywords": [
+        "independent",
+        "self motivated",
+        "works alone",
+        "independent learner",
+        "self directed"
+      ],
+      "response": "Self-directed learners do well in Art (personal portfolio), Photography (own projects), Computer Science (solo programming), and History (independent research and essay writing). These reward students who can manage their own time."
+    },
+    {
+      "id": "low_confidence",
+      "keywords": [
+        "low confidence",
+        "lacks confidence",
+        "not confident",
+        "self doubt",
+        "worries about failing",
+        "scared of failing",
+        "worried about choices"
+      ],
+      "response": "Subjects that build confidence gradually: Art, Photography, Performing Arts BTEC, and Sport BTEC assess over time rather than in one exam. Encourage choosing subjects they enjoy \u2014 enjoyment usually leads to better outcomes than choosing what seems impressive."
+    },
+    {
+      "id": "perfectionist",
+      "keywords": [
+        "perfectionist",
+        "detail oriented",
+        "meticulous",
+        "careful worker",
+        "precise",
+        "thorough"
+      ],
+      "response": "Perfectionists often do well in History, Psychology, Computer Science, and Art \u2014 all reward thoroughness and attention to detail. The main risk is spending too long on coursework, so time management is important."
+    },
+    {
+      "id": "jersey_context",
+      "keywords": [
+        "jersey",
+        "island",
+        "local",
+        "jersey gcse",
+        "jersey schools",
+        "jersey education"
+      ],
+      "response": "HV is one of Jersey's secondary schools offering GCSEs from Year 8 \u2014 earlier than most UK schools. Jersey's bilingual heritage makes French particularly relevant. The Highlands College partnership offers vocational routes unique to the island. 2024 results were described as outstanding."
+    },
+    {
+      "id": "jersey_jobs",
+      "keywords": [
+        "jersey jobs",
+        "work in jersey",
+        "jersey career",
+        "local jobs",
+        "finance jersey",
+        "jersey economy"
+      ],
+      "response": "Jersey's main industries are financial services, hospitality, tourism, agriculture, and construction. Business Studies and Financial Education (CeFE) suit finance paths. Computer Science for tech. Food and Nutrition and Construction (Highlands) directly address local industry needs."
+    },
+    {
+      "id": "highlands_college",
+      "keywords": [
+        "highlands college",
+        "highlands",
+        "college partnership",
+        "going to college",
+        "college courses"
+      ],
+      "response": "Highlands College partnership courses (Construction, Hair and Beauty) run over 2 years \u2014 Year 9 school-based, Years 10-11 one afternoon per week at Highlands. These are Jersey Progression Awards valued by local employers. You can only choose ONE Highlands course."
+    },
+    {
+      "id": "portuguese_community",
+      "keywords": [
+        "portuguese community",
+        "portuguese jersey",
+        "portuguese family",
+        "speaks portuguese at home"
+      ],
+      "response": "Jersey has a large Portuguese-speaking community. HV offers a unique Combined Portuguese/Spanish GCSE \u2014 ideal for students already fluent in Portuguese. They gain two language GCSEs: Portuguese in Year 9, then Spanish in Years 10-11. A significant advantage for bilingual students."
+    },
+    {
+      "id": "access_arrangements",
+      "keywords": [
+        "access arrangements",
+        "extra time",
+        "reader",
+        "scribe",
+        "laptop exam",
+        "exam support",
+        "accommodations",
+        "exam adjustments"
+      ],
+      "response": "Access arrangements (extra time, reader, scribe, rest breaks, laptop) apply to all GCSE exams and are arranged through the school SENCO. Evidence of need is required \u2014 speak to the SENCO as early as possible, ideally before Year 9."
+    },
+    {
+      "id": "when_are_exams",
+      "keywords": [
+        "when are exams",
+        "exam dates",
+        "when do they sit exams",
+        "year 11 exams",
+        "gcse exams when"
+      ],
+      "response": "Most GCSE exams are sat at the end of Year 11. IGCSE Maths and English Language have additional sittings in November and May, allowing students to improve earlier grades. Some subjects may allow early entry where appropriate."
+    },
+    {
+      "id": "coursework_deadlines",
+      "keywords": [
+        "coursework deadline",
+        "when is coursework due",
+        "nea deadline",
+        "project deadline",
+        "submit coursework"
+      ],
+      "response": "Coursework deadlines are set by individual subject teachers and vary by subject and year. Contact subject leaders directly \u2014 their email addresses are listed on each subject page of the booklet."
+    },
+    {
+      "id": "predicted_grades",
+      "keywords": [
+        "predicted grades",
+        "predicted",
+        "how do teachers predict",
+        "will they pass",
+        "expected grade",
+        "target grade"
+      ],
+      "response": "Predicted grades are set by subject teachers based on classwork, assessments, and mocks throughout the course. The 3-year model gives teachers more time to assess accurately. Contact your child's subject teacher directly for grade expectations."
+    },
+    {
+      "id": "regret_choices",
+      "keywords": [
+        "wrong choice",
+        "regret",
+        "made wrong decision",
+        "what if they hate it",
+        "chose wrong subject",
+        "unhappy with choice"
+      ],
+      "response": "Before the deadline, choices can be changed via the online platform. After the deadline, speak to the school \u2014 changes may be possible early in Year 9. Choices based on genuine interest and strength rarely lead to regret."
+    },
+    {
+      "id": "parent_disagrees",
+      "keywords": [
+        "i want them to do",
+        "parent wants",
+        "i think they should",
+        "pushing them to",
+        "forcing them",
+        "they disagree with me"
+      ],
+      "response": "The booklet is clear: choices should not be based on what parents want. Students who choose subjects they enjoy consistently outperform those pushed into subjects they dislike. The best parental role is to help research options, not direct the decision."
+    },
+    {
+      "id": "future_proofing",
+      "keywords": [
+        "keep options open",
+        "future proof",
+        "not close doors",
+        "flexible future",
+        "no idea about career"
+      ],
+      "response": "To keep options open: choose at least one humanity (History, Geography, RS) and consider a language. The EBacc route is safest for keeping A Level and university options wide. Avoid choosing three very niche subjects if the future direction is uncertain."
+    },
+    {
+      "id": "subject_popularity",
+      "keywords": [
+        "popular subjects",
+        "most chosen",
+        "what do most students choose",
+        "common choices",
+        "typical choices"
+      ],
+      "response": "The booklet does not publish popularity data. History, Geography, Computer Science, and Art are broadly popular at most schools. The school runs subject presentations so students can gauge interest. Popularity should not influence choice \u2014 timetable blocks are built around demand."
+    },
+    {
+      "id": "class_sizes",
+      "keywords": [
+        "class size",
+        "how many in class",
+        "big classes",
+        "small groups",
+        "how many students per class"
+      ],
+      "response": "Class sizes are not specified in the options booklet. Vocational Highlands courses tend to be smaller groups. For specific class size information, contact the school on 01534 736524 or enquiries@hv.sch.je."
+    },
+    {
+      "id": "subject_not_running",
+      "keywords": [
+        "subject not running",
+        "not enough students",
+        "cancelled subject",
+        "minimum numbers",
+        "subject cancelled",
+        "will it run"
+      ],
+      "response": "Some subjects require minimum numbers to run. Reserve choices are collected for exactly this reason. The school aims to accommodate as many first choices as possible when building option blocks."
+    },
+    {
+      "id": "new_to_school",
+      "keywords": [
+        "new to school",
+        "just joined",
+        "transferred",
+        "new student",
+        "joining hv",
+        "starting hv"
+      ],
+      "response": "If your child is new to HV, contact the school office directly on 01534 736524 or enquiries@hv.sch.je. The options coordinator will advise on the process for late or new joiners as the standard deadline may not apply."
+    },
+    {
+      "id": "english_as_second_language",
+      "keywords": [
+        "english as second language",
+        "esl",
+        "eal",
+        "english not first language",
+        "not fluent in english",
+        "recently arrived"
+      ],
+      "response": "For EAL students, practical subjects with less written demand work well: Art, Photography, DT, Performing Arts, Sport BTEC, and Highlands vocational courses. Languages like Spanish or Portuguese/Spanish may also leverage existing skills. Speak to the SENCO about EAL support available."
+    },
+    {
+      "id": "gifted_and_talented",
+      "keywords": [
+        "gifted",
+        "talented",
+        "exceptional student",
+        "very bright",
+        "outstanding student",
+        "exceeding expectations"
+      ],
+      "response": "The 3-year course allows exploration of higher-level content. HV can enter students for exams early if teachers believe it is beneficial. For exceptionally able students, speak to the school about stretch opportunities \u2014 particularly in Maths, Science, and Computer Science."
+    },
+    {
+      "id": "attendance_concerns",
+      "keywords": [
+        "attendance",
+        "misses school",
+        "often absent",
+        "health condition",
+        "medical condition",
+        "chronic illness"
+      ],
+      "response": "For students with significant attendance difficulties, exam-based subjects (History, Psychology, RS, Business) may be more manageable as content can be caught up at home. Coursework subjects require consistent in-school time. Speak to the SENCO and pastoral team about the best approach."
+    },
+    {
+      "id": "multiple_languages",
+      "keywords": [
+        "already speaks two languages",
+        "bilingual",
+        "multilingual family",
+        "speaks another language",
+        "heritage language"
+      ],
+      "response": "Bilingual students have a real advantage in language GCSEs. The Combined Portuguese/Spanish option is specifically designed for Portuguese-speaking students. If fluent in French or Spanish, speak to Miss Durbano about appropriate challenge level."
+    },
+    {
+      "id": "cost",
+      "keywords": [
+        "cost",
+        "how much does it cost",
+        "fees",
+        "expensive",
+        "materials cost",
+        "art materials",
+        "equipment cost"
+      ],
+      "response": "The booklet does not detail subject costs. Some practical subjects (Art, DT, Food and Nutrition) may require materials. Highlands courses may have associated costs. Contact the school directly for information on subject-specific costs or financial support available."
+    },
+    {
+      "id": "school_report",
+      "keywords": [
+        "school report",
+        "current grades",
+        "teacher recommendation",
+        "what does teacher suggest",
+        "teacher says"
+      ],
+      "response": "Current subject teachers are the best source of advice on GCSE suitability. The booklet encourages students to speak directly to subject leaders. If a teacher has recommended for or against a subject, that guidance is worth taking seriously."
+    },
+    {
+      "id": "anxiety_about_choosing",
+      "keywords": [
+        "stressed about choosing",
+        "worried about options",
+        "scared of choosing wrong",
+        "too much pressure",
+        "overwhelming decision",
+        "anxious about options"
+      ],
+      "response": "Feeling anxious about options is very common. Reassurances: reserve choices exist as a safety net, the school builds blocks to maximise first choices, and early Year 9 changes are sometimes possible. Focus on what your child enjoys and is good at \u2014 that is genuinely the best guide."
+    },
+    {
+      "id": "religion_beliefs",
+      "keywords": [
+        "religious",
+        "faith",
+        "muslim",
+        "christian",
+        "religious family",
+        "religious beliefs"
+      ],
+      "response": "Religious Studies GCSE (AQA) covers Christianity and Islam alongside philosophical and ethical themes. It is open to students of all faiths and none \u2014 it is an academic subject examining beliefs and ethics, not faith formation. It must be chosen as Choice 1 if selected."
+    },
+    {
+      "id": "competitive_subjects",
+      "keywords": [
+        "competitive entry",
+        "limited places",
+        "hard to get into",
+        "spaces limited",
+        "oversubscribed",
+        "popular choice"
+      ],
+      "response": "The booklet does not indicate competitive entry for any subject. Option blocks are formed based on overall demand. Reserve choices ensure students have a fallback if their preferred subject does not run or blocks do not work out."
+    },
+    {
+      "id": "support_at_home",
+      "keywords": [
+        "how can i help at home",
+        "parent help",
+        "help with homework",
+        "support revision",
+        "study tips",
+        "learning at home"
+      ],
+      "response": "The booklet encourages students to research subjects and ask teachers questions before choosing. At home, help your child explore subject content online, watch related documentaries, and visit subject-specific websites. The most important thing is that choices feel right to them, not to you."
+    },
+    {
+      "id": "exam_timetable",
+      "keywords": [
+        "when are the exams",
+        "exam timetable",
+        "exam schedule",
+        "when do exams start",
+        "what month are exams",
+        "gcse exam dates",
+        "when do they sit"
+      ],
+      "response": "GCSE exams are mainly in May and June of Year 11. IGCSE Maths and English Language also have a November sitting, giving students a second chance to improve. Exact dates are published by exam boards (Edexcel, AQA, OCR, Cambridge) each year \u2014 the school will share the full timetable closer to the time."
+    },
+    {
+      "id": "early_exams",
+      "keywords": [
+        "early entry",
+        "sit early",
+        "year 10 exams",
+        "year 9 exams",
+        "before year 11",
+        "exam before end"
+      ],
+      "response": "HV specifically mentions that the 3-year course allows flexibility to enter students for exams when teachers believe it will benefit them \u2014 not just at the end of Year 11. IGCSE Maths and English Language can be sat in November of Year 11. Speak to the relevant subject teacher about early entry possibilities."
+    },
+    {
+      "id": "study_leave",
+      "keywords": [
+        "study leave",
+        "study leave when",
+        "when is study leave",
+        "off school for exams",
+        "leave for revision",
+        "revision leave",
+        "exam leave",
+        "time off for exams"
+      ],
+      "response": "Study leave arrangements are not detailed in the options booklet \u2014 these are set by the school annually. Typically Jersey secondary schools offer study leave during the main exam period in May/June of Year 11. Contact the school directly for the current study leave policy: 01534 736524 or enquiries@hv.sch.je."
+    },
+    {
+      "id": "mock_exams",
+      "keywords": [
+        "mock exams",
+        "mocks",
+        "practice exams",
+        "mock timetable",
+        "when are mocks",
+        "trial exams",
+        "internal exams"
+      ],
+      "response": "Mock exams are mentioned for several subjects \u2014 languages (French, Spanish) have mock Listening, Reading and Writing at end of Year 10 and twice in Year 11. Other subjects will have internal mocks set by the school. Exact mock timetables are set annually \u2014 the school will communicate these to students and parents."
+    },
+    {
+      "id": "exam_results",
+      "keywords": [
+        "results day",
+        "when are results",
+        "gcse results day",
+        "when do they get results",
+        "results 2025",
+        "results 2027"
+      ],
+      "response": "GCSE results are typically released in late August \u2014 Results Day is usually the third Thursday of August. For the Class of 2027 (current Year 8), results would be August 2027. The school contacts students directly with results and supports them with next steps."
+    },
+    {
+      "id": "exam_preparation",
+      "keywords": [
+        "how to prepare",
+        "exam preparation",
+        "revision tips",
+        "how to revise",
+        "best way to revise",
+        "revision strategies",
+        "study skills"
+      ],
+      "response": "The booklet highlights that the 3-year course gives significantly more time for thorough exam preparation compared to traditional 2-year courses. Subject teachers will advise on revision strategies specific to each course. General advice: start early, use past papers, and work consistently rather than cramming."
+    },
+    {
+      "id": "exam_board_contacts",
+      "keywords": [
+        "exam board",
+        "edexcel",
+        "aqa",
+        "ocr",
+        "cambridge assessment",
+        "pearson",
+        "which exam board"
+      ],
+      "response": "HV uses multiple exam boards: Edexcel/Pearson for Maths, Business, Computer Science, DT, French, Spanish, Geography, History, Sport BTEC, Performing Arts; AQA for Art, Food, Music GCSE, Photography, RS; OCR/Cambridge for English, Science, Psychology, Child Development, ICT. The exam board is listed on each subject page of the booklet."
+    },
+    {
+      "id": "november_exams",
+      "keywords": [
+        "november exams",
+        "autumn exams",
+        "november sitting",
+        "resit november",
+        "early november"
+      ],
+      "response": "IGCSE English Language and IGCSE Mathematics both have November sittings in Year 11, in addition to the main May sitting. This gives students two opportunities to achieve their best grade. Other subjects do not have November sittings."
+    }
+  ]
+}

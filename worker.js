@@ -130,28 +130,66 @@ function isOffTopic(text) {
 }
 
 // ── TIER 2: Response bank keyword matching ──────────────────────
+// Scoring system to avoid false positives:
+// - Each keyword match adds to an entry's score based on keyword quality
+// - Longer user questions need higher scores (complex = let Haiku handle)
+// - Short direct lookups ("photography", "ebacc") get a boost
+// - If no entry meets the threshold, falls through to Haiku (Tier 3)
+
 function matchResponseBank(userText, responses) {
   if (!responses || !responses.responses) return null;
 
   const lower = userText.toLowerCase();
+  const userWords = lower.split(/\s+/).filter(w => w.length > 0);
   let bestMatch = null;
   let bestScore = 0;
 
   for (const entry of responses.responses) {
+    let entryScore = 0;
+    let matchedKeywords = 0;
+
     for (const keyword of entry.keywords) {
       const kw = keyword.toLowerCase();
-      if (lower.includes(kw)) {
-        // Prefer longer keyword matches (more specific)
-        const score = kw.length;
-        if (score > bestScore) {
-          bestScore = score;
-          bestMatch = entry;
-        }
+      if (!lower.includes(kw)) continue;
+
+      matchedKeywords++;
+      const kwWords = kw.split(/\s+/).length;
+
+      if (kwWords >= 3) {
+        entryScore += kw.length * 2;       // Strong: long phrase match
+      } else if (kwWords === 2) {
+        entryScore += kw.length * 1.5;     // Good: two-word phrase
+      } else {
+        entryScore += kw.length;            // Single word: score by length
       }
+    }
+
+    // Bonus for multiple keyword matches on the same entry
+    if (matchedKeywords >= 2) {
+      entryScore *= 1.3;
+    }
+
+    if (entryScore > bestScore) {
+      bestScore = entryScore;
+      bestMatch = entry;
     }
   }
 
-  return bestMatch;
+  if (!bestMatch) return null;
+
+  // Dynamic threshold: longer questions need higher confidence
+  // Short queries (1-3 words) are likely direct lookups → low threshold
+  // Long queries (8+ words) are likely nuanced → high threshold
+  let threshold;
+  if (userWords.length <= 3) {
+    threshold = 4;      // "photography", "ebacc", "french"
+  } else if (userWords.length <= 6) {
+    threshold = 5;      // "what is the ebacc", "tell me about history"
+  } else {
+    threshold = 25;     // "my child is not very academic what do you recommend"
+  }
+
+  return bestScore >= threshold ? bestMatch : null;
 }
 
 // ── Main handler ────────────────────────────────────────────────
